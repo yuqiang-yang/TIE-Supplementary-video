@@ -1,6 +1,23 @@
-## TIE Supplementary VIDEO
+## RAMPAGE: Towards Whole-body, Real-Time and Agile Motion Planning in Dynamic Cluttered Environments for Mobile Manipulators
 
-The video includes extensive experiment results and benchmark comparisons. Hope you to enjoy it. Thanks for watching!!!! 
+The supplementary video includes extensive experiment results and benchmark comparisons. Hope you to enjoy it. Thanks for watching!
 
 https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/b78f4709-9fbf-4ff2-9c52-ff2a456a9187
+
+
+### Several experimental results for the revised manuscript to demonstrate the real-time updated ESDF in dynamic environments 
+### Simulated dynamic environment
+The mobile manipulator perceives the obstacle pointcloud using on-robot lidar with 360 degree FOV. The video shows that both static and dynamic obstacles are well modelled in ESDF.
+https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/961dec56-8a0d-4174-b007-74d3f82c9768
+
+### Real-world static and dynamic environment
+
+
+### Real-time perception and planning with only on-robot sensors in an unknown environment
+In the pick-and-place experiment, the mobile manipulator perceives the obstacle using on-robot cameras and constructs the ESDF in real-time.
+
+https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/5037794f-153f-485d-a0d1-f082aa5159f1
+
+
+https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/01ff2d76-7f11-4625-8c0a-0695d036b6b9
 
