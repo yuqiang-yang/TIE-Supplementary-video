@@ -8,6 +8,7 @@ https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/b78f4709
 ### Several experimental results for the revised manuscript to demonstrate the real-time updated ESDF in dynamic environments 
 ### Simulated dynamic environment
 The mobile manipulator perceives the obstacle pointcloud using on-robot lidar with 360 degree FOV. The video shows that both static and dynamic obstacles are well modelled in ESDF.
+
 https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/961dec56-8a0d-4174-b007-74d3f82c9768
 
 ### Real-world static and dynamic environment
