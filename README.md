@@ -14,6 +14,17 @@ https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/961dec56
 ### Real-world static and dynamic environment
 
 
+
+
+https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/0c4a30f0-3d8a-430b-a4ae-6e783a7bd2e1
+
+
+
+
+https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/a11e366e-6892-44ea-8810-4925fe815cec
+
+
+
 ### Real-time perception and planning with only on-robot sensors in an unknown environment
 In the pick-and-place experiment, the mobile manipulator perceives the obstacle using on-robot cameras and constructs the ESDF in real-time.
 
