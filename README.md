@@ -15,13 +15,16 @@ https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/961dec56
 
 
 
-
-https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/0c4a30f0-3d8a-430b-a4ae-6e783a7bd2e1
-
+https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/0427f6d3-df56-435f-9987-b691b08b7f80
 
 
 
-https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/a11e366e-6892-44ea-8810-4925fe815cec
+
+https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/4de6571c-bdc9-4b95-a5d3-ef68066cf108
+
+
+
+
 
 
 
