@@ -1,6 +1,6 @@
 
 ## RAMPAGE: Towards Whole-body, Real-Time and Agile Motion Planning in Dynamic Cluttered Environments for Mobile Manipulators
-The supplementary materials are added at [Supplentary_Material_for_Rampage.pdf](Supplentary_Material_for_Rampage.pdf) to demonstrate that our solver can achieve SOTA performance in terms of solution speed and quality. Python codes for benchmarks are also available in this repository.
+### The supplementary materials are added at [Supplentary_Material_for_Rampage.pdf](Supplentary_Material_for_Rampage.pdf) to demonstrate that our solver can achieve SOTA performance in terms of solution speed and quality. Python codes for benchmarks are also available in this repository.
 
 The supplementary video includes extensive experiment results and benchmark comparisons. Hope you to enjoy it. Thanks for watching!
 
