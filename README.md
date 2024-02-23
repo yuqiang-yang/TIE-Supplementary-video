@@ -1,10 +1,15 @@
 
 ## RAMPAGE: Towards Whole-body, Real-Time and Agile Motion Planning in Dynamic Cluttered Environments for Mobile Manipulators
-We proposed a framework for mobile manipulators to plan and execute wholebody trajectories in cluttered dynamic environments. Environmental maps are constructed in real time with only on-robot sensors. Extensive benchmark comparisons and experiment demonstrate that the proposed framework can find near-optimal whole-body collision-free trajectories in real time with a high success rate. The high-frequency controller accurately tracks them at an average speed of 1.86m/s among unknown dynamic obstacles with a maximum speed of 2m/s in simulation. Pick-and-place experimental results further verify our method’s effectiveness and efficiency in the real world.
+We proposed a framework for mobile manipulators to plan and execute wholebody trajectories in cluttered dynamic environments. Environmental maps are constructed in real time with only on-robot sensors. Extensive benchmark comparisons and experiment demonstrate that the proposed framework can plan and execute collision-free wholebody trajectory at an average speed of 1.86m/s among unknown dynamic obstacles with a maximum speed of 2m/s in simulation. Pick-and-place experimental results further verify our method’s effectiveness and efficiency in the real world.
+
 ## News
+
 **Jan 29, 2024** :The supplementary materials are added at [Supplentary_Material_for_Rampage.pdf](Supplentary_Material_for_Rampage.pdf) to demonstrate that our solver can achieve SOTA performance in terms of solution speed and quality. Python codes for benchmarks are also available in this repository.
+
 **Oct 10, 2023** : Supplementary videos for TIE submission are added.
+
 **Feb 19, 2024** : Paper is accepted to IEEE Transactions on Industrial Electronics.
+
 **Feb 23, 2024** : PDF of paper is released [here](23-TIE-3535-early-access-pdf.pdf) for early access.
 
 ## Supplementary video
