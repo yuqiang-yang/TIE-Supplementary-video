@@ -12,6 +12,8 @@ We proposed a framework for mobile manipulators to plan and execute wholebody tr
 
 **Feb 23, 2024** : PDF of paper is released [here](23-TIE-3535-early-access-pdf.pdf) for early access.
 
+**Mar 16, 2024** : This paper is available at [IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10416968)
+
 ## Supplementary video
 https://github.com/yuqiang-yang/TIE-Supplementary-video/assets/49871992/b78f4709-9fbf-4ff2-9c52-ff2a456a9187
 
